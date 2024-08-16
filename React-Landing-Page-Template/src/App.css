@@ -1,0 +1,24 @@
+@media screen and (max-width: 400px) {
+  #home {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+body{
+  background-color: wheat !important;
+}
+
+

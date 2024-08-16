@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "rooms": [
+    {
+      "title": "Standard Room",
+      "largeImage": "img/iloveimg-resized/room 8 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 8 small.jpg"
+    },
+    {
+      "title": "Duplex",
+      "largeImage": "img/iloveimg-resized/room 2 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 2 small.jpg"
+    },
+    {
+      "title": "Connecting Rooms",
+      "largeImage": "img/iloveimg-resized/room 3 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 3 small.jpg"
+    },
+    {
+      "title": "Presidential Suite",
+      "largeImage": "img/iloveimg-resized/room 4 large.jpg ",
+      "smallImage": "img/iloveimg-resized (1)/room 4 small.jpg"
+    },
+    {
+      "title": "Bungalow",
+      "largeImage": "img/iloveimg-resized/room 5 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 5 small.jpg"
+    },
+    {
+      "title": "Junior Suite",
+      "largeImage": "img/iloveimg-resized/room 6 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 6 small.jpg"
+    },
+    {
+      "title": "Executive Room",
+      "largeImage": "img/iloveimg-resized/room 7large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 7 small.jpg"
+    },
+    {
+      "title": "Penthouse",
+      "largeImage": "img/iloveimg-resized/room 8 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 8 small.jpg"
+    },
+    {
+      "title": "Deluxe Room",
+      "largeImage": "img/iloveimg-resized/room 5 large.jpg",
+      "smallImage": "img/iloveimg-resized (1)/room 5 small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Your Stay, Your Way",
+      "text": "Our dedicated concierge team is here to make your stay seamless and unforgettable."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Savor the Flavors of Location",
+      "text": "Embark on a culinary journey without leaving the hotel. Our award-winning chefs craft"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Stay Active, Stay Inspired",
+      "text": "Our state-of-the-art fitness center is more than just a gym. We offer a variety of innovative fitness ."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Work Meets Luxury",
+      "text": "For our business travelers, we provide an array of services that combine productivity with luxury."
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Creating Memorable Moments for All Ages",
+      "text": "We welcome families with open arms, offering services and amenities that cater to guests of all ages."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Commitment to the Environment",
+      "text": "We are dedicated to sustainable practices that protect our planet while providing luxury experiences"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/rocks.jpg",
+      "name": "Nirmal Raj S",
+      "job": "Director"
+    },
+    {
+      "img": "img/jiii.jpg",
+      "name": "Kamalesh Saala",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/black (1).jpg",
+      "name": "Ikfan",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/js.jpg",
+      "name": "Sanjai J",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "H-2, SIPCOT IT Park, Old Mahabalipuram Road, Siruseri, Chennai, Tamil Nadu 603103",
+    "phone": "789654123",
+    "email": "snkm@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Home": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Deluxe Suite",
+      "text": "Experience the height of luxury in our Deluxe Suite, featuring a spacious living area, king-sized bed, and stunning city views."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Executive Room",
+      "text": "Perfect for business travelers, our Executive Room offers a comfortable workspace, high-speed internet, and access to our exclusive Executive Lounge."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Family Room",
+      "text": "Designed for families, our Family Room includes two queen beds, a cozy seating area, and kid-friendly amenities to ensure a fun and relaxing stay."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Special Offers",
+      "text": "Book a stay of 3 nights or more and get 20% off, plus complimentary breakfast and spa access."
+    }
+  ]
+}

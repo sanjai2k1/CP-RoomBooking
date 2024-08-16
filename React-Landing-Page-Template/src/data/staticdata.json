@@ -1,0 +1,507 @@
+{
+    "cities": [
+      {
+        "id": "1",
+        "city": "Chennai"
+      },
+      {
+        "id": "2",
+        "city": "Mumbai"
+      },
+      {
+        "id": "3",
+        "city": "Delhi"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "1ce7",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " Room assigned to one person. May have one or more  beds.\nThe room size or area of Single Rooms is generally between 37 m² to 45 m²",
+        "booked": false,
+        "price": "3000"
+      },
+      {
+        "id": "7fb2",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-1.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room assigned to two people. May have one or more  beds.\nThe room size or area of Double Rooms are generally between 40 m² to 45 m².",
+        "booked": false,
+        "price": "3909"
+      },
+      {
+        "id": "9860",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room that can accommodate three persons and has been fitted with three twin beds, one double  bed and one twin  bed or two double beds.\nThe room size or area of Triple Rooms is generally between 45 m² to 65 m².",
+        "booked": false,
+        "price": "8379"
+      },
+      {
+        "id": "6a82",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-4.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room assigned to four people. May have two or more  beds.\nThe room size or area of Quad Rooms is generally between 70 m² to 85 m².\n\n",
+        "booked": false,
+        "price": "9237"
+      },
+      {
+        "id": "247b",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-3.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room with a queen-sized bed. May be occupied by one or more people.\nThe room size or area of Queen Rooms is generally between 32 m² to 50 m².\n\n",
+        "booked": false,
+        "price": "7392"
+      },
+      {
+        "id": "d648",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-7.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room with a king-sized bed. May be occupied by one or more people.\nThe room size or area of King Rooms is generally between 32 m² to 50 m².",
+        "booked": false,
+        "price": "8373"
+      },
+      {
+        "id": "afc1",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-17.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room with two twin  beds. May be occupied by one or more people.\nThe room size or area of Twin Rooms is generally between 32 m² to 40 m²",
+        "booked": false,
+        "price": "6436"
+      },
+      {
+        "id": "b15f",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-11.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A Room with two double ( or perhaps queen) beds. And can accommodate two to four persons with two twin, double or queen-size  beds.\nThe room size or area of Double-double / Double Twin rooms is generally between 50 m² to 70 m².",
+        "booked": false,
+        "price": "9383"
+      },
+      {
+        "id": "51bc",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-8.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room located on the ‘executive floor’ which enables convenient access to the executive lounge. Besides, some hotels also provide ‘female executive floors’ with their rooms assigned to female guests only due to safety and security reasons.",
+        "booked": false,
+        "price": "2383"
+      },
+      {
+        "id": "2093",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-6.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "The most expensive room provided by a hotel. Usually, only one president suite is available in one single hotel property. Similar to the normal suites, a president suite always has one or more bedrooms and living spaces with a strong emphasis on grand in-room decoration, high-quality amenities and supplies, and tailor-made services (e.g. personal butler during the stay).",
+        "booked": false,
+        "price": "3894"
+      },
+      {
+        "id": "3281",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-5.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "A room with a studio bed- a couch which can be converted into a  bed. May also have an additional  bed.\nThe room size or area of Studio room types are generally between 25 m² to 40 m².",
+        "booked": false,
+        "price": "3847"
+      },
+      {
+        "id": "c193",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-20.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "This room type can be found in service apartments and hotels which target for long-stay guests. Open kitchens, cooking equipment, dryer, washer etc. are usually available in the room. Housekeeping services are only provided once in a week or two times in a week.\nThe room size or area of Serviced Apartments is generally between 96 m² to 250 m².",
+        "booked": false,
+        "price": "8765"
+      },
+      {
+        "id": "1b05",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-12.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room that is fitted with a sofa  bed or a Murphy bed (i.e. a  bed that folds out of a wall or closet) which can be transformed from a bedroom in the nighttime to a living room in the daytime.\nThe room size or area of Murphy Room Types are generally between 20 m² to 40 m².",
+        "booked": false,
+        "price": "9384"
+      },
+      {
+        "id": "a6c2",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-16.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": "This room type is mainly designed for disabled guests and it is required by law that hotels must provide a certain number of accessible rooms to avoid discrimination.",
+        "booked": false,
+        "price": "2838"
+      },
+      {
+        "id": "cba5",
+        "city": "Delhi",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-15.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " This type of room is always adjoining to the  swimming pool pool or has a private  pool attached to the room.\n\nThe room size or area of Cabana Room Types is generally between 30 m² to 45 m².",
+        "booked": false,
+        "price": "3848"
+      }
+    ],
+    "bookedRooms": [
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "3",
+        "city": "Delhi",
+        "image": "/images/room3.webp",
+        "info": "Luxurious suite in the heart of the city.",
+        "booked": false,
+        "price": 400
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "68f3",
+        "city": "dds",
+        "image": "cxc",
+        "info": "xvcx",
+        "booked": false,
+        "price": 0
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "4872",
+        "city": "dds",
+        "image": "cxc",
+        "info": "xvcx",
+        "booked": false,
+        "price": 0
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "01f0",
+        "city": "dds",
+        "image": "cxc",
+        "info": "xvcx",
+        "price": 0
+      },
+      {
+        "id": "1",
+        "city": "Tiruvallur",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "3",
+        "city": "Delhi",
+        "image": "/images/room3.webp",
+        "info": "Luxurious suite in the heart of the city.",
+        "booked": false,
+        "price": 400
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "3",
+        "city": "Delhi",
+        "image": "/images/room3.webp",
+        "info": "Luxurious suite in the heart of the city.",
+        "booked": false,
+        "price": 400
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "3",
+        "city": "Delhi",
+        "image": "/images/room3.webp",
+        "info": "Luxurious suite in the heart of the city.",
+        "booked": false,
+        "price": 400
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "3",
+        "city": "Delhi",
+        "image": "/images/room3.webp",
+        "info": "Luxurious suite in the heart of the city.",
+        "booked": false,
+        "price": 400
+      },
+      {
+        "id": "1",
+        "city": "Chennai",
+        "image": "/images/room1.webp",
+        "info": "Comfortable apartment near Marina Beach.",
+        "booked": false,
+        "price": 2000
+      },
+      {
+        "id": "2",
+        "city": "Mumbai",
+        "image": "/images/room2.jpg",
+        "info": "Spacious penthouse with a view of the sea.",
+        "booked": false,
+        "price": 3000
+      },
+      {
+        "id": "82a7",
+        "city": "Mumbai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwn3esW5gGak_ZERXSEj_qU-6x7-0mYYvEA&s",
+        "info": "roommms",
+        "booked": false,
+        "price": "1000"
+      },
+      {
+        "id": "1ce7",
+        "city": "Chennai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " Room assigned to one person. May have one or more  beds.\nThe room size or area of Single Rooms is generally between 37 m² to 45 m²",
+        "booked": false,
+        "price": "3000"
+      },
+      {
+        "id": "7fb2",
+        "city": "Mumbai",
+        "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-1.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+        "info": " A room assigned to two people. May have one or more  beds.\nThe room size or area of Double Rooms are generally between 40 m² to 45 m².",
+        "booked": false,
+        "price": "3909"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "name": "user1",
+        "contact": "user1",
+        "username": "user1",
+        "email": "user1",
+        "password": "User@2k1",
+        "bookedrooms": [],
+        "booked": true
+      },
+      {
+        "id": "2",
+        "name": "user2",
+        "contact": "user2",
+        "username": "user2",
+        "email": "user2",
+        "password": "User@2k1",
+        "bookedrooms": []
+      },
+      {
+        "id": "0eb9",
+        "name": "dsd",
+        "contact": "9176071379",
+        "email": "sanjai@gmail.com",
+        "username": "dssss",
+        "password": "Sanjai@2k1",
+        "bookedrooms": [
+          {
+            "id": "1ce7",
+            "city": "Chennai",
+            "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+            "info": " Room assigned to one person. May have one or more  beds.\nThe room size or area of Single Rooms is generally between 37 m² to 45 m²",
+            "booked": false,
+            "price": "3000"
+          },
+          {
+            "id": "7fb2",
+            "city": "Mumbai",
+            "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-1.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+            "info": " A room assigned to two people. May have one or more  beds.\nThe room size or area of Double Rooms are generally between 40 m² to 45 m².",
+            "booked": false,
+            "price": "3909"
+          },
+          {
+            "id": "1ce7",
+            "city": "Chennai",
+            "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+            "info": " Room assigned to one person. May have one or more  beds.\nThe room size or area of Single Rooms is generally between 37 m² to 45 m²",
+            "booked": false,
+            "price": "3000"
+          },
+          {
+            "id": "7fb2",
+            "city": "Mumbai",
+            "image": "https://setupmyhotel.com/wp-content/uploads/2024/01/image-1.webp?ezimgfmt=rs:300x250/rscb339/ng:webp/ngcb338",
+            "info": " A room assigned to two people. May have one or more  beds.\nThe room size or area of Double Rooms are generally between 40 m² to 45 m².",
+            "booked": false,
+            "price": "3909"
+          }
+        ]
+      },
+      {
+        "id": "a107",
+        "name": "dsd",
+        "contact": "9176071379",
+        "email": "sanjai@gmail.com",
+        "username": "dssss",
+        "password": "Sanjai@2k1",
+        "bookedrooms": []
+      },
+      {
+        "id": "211a",
+        "name": "saddd",
+        "contact": "9457432145",
+        "email": "ssssaa@gmail.com",
+        "username": "sdffds",
+        "password": "Sanjai@2k1",
+        "bookedrooms": []
+      },
+      {
+        "id": "a635",
+        "name": "fddfsgfgsf",
+        "contact": "6578943215",
+        "email": "sadf@gmail.com",
+        "username": "cxdfsdf",
+        "password": "Sanjai@2k1",
+        "bookedrooms": []
+      }
+    ],
+    "admins": [
+      {
+        "name": "sanjai",
+        "password": "Sanjai@2k1",
+        "id": "94d4"
+      },
+      {
+        "name": "ikfan",
+        "password": "Ikfan@2k1",
+        "id": "29e8"
+      },
+      {
+        "name": "nirmal",
+        "password": "Nirmal@2k1",
+        "id": "39ad"
+      },
+      {
+        "name": "kamalesh",
+        "password": "kamalesh@2k1",
+        "id": "8b5d"
+      }
+    ]
+  }

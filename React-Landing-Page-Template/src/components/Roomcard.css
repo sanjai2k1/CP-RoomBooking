@@ -1,0 +1,9 @@
+.room-card {
+    width: 18rem; /* Optional: Adjust the card width as needed */
+  }
+  
+  .card img {
+    height: 200px; /* Fixed height for the room image */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire space */
+  }
+  
